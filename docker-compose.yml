@@ -8,4 +8,4 @@ services:
     ports:
       - 8000:8000
     volumes:
-      - /path/to/local/here:/opt/trivial-purfuit
+      - /Users/safr/School/FdnsSoftwareEng/Development/TrivialPurfuit:/opt/trivial-purfuit
